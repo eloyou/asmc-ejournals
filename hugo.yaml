@@ -1,6 +1,6 @@
 baseURL: https://asmc-ejournals.netlify.app/
 languageCode: en-us
-title: ASMC e-Journals
+title: ASMC 🧑‍🏫 e-Journals
 theme: ["PaperMod"]
 
 params:
@@ -14,9 +14,9 @@ params:
     imageWidth: 350 # custom size
     imageHeight: 350 # custom size
     buttons:
-      - name: Researches
+      - name: Researches ↗️
         url: "/archives/"
-      - name: Authors
+      - name: Authors ↗️
         url: "/authors/"
 
   socialIcons: # optional
@@ -33,19 +33,19 @@ params:
 menu:
   main:
     - identifier: researches
-      name: researches
+      name: 🔬 researches
       url: /archives/
       weight: 10
     - identifier: categories
-      name: categories
+      name: 📚 categories
       url: categories
       weight: 20
     - identifier: authors
-      name: authors
+      name: 🧑‍💻 authors
       url: authors
       weight: 30
     - identifier: search
-      name: search
+      name: 🔎 search
       url: search
       weight: 40
 

@@ -84,4 +84,4 @@ Tests revealed that **all indicators of challenges had (p > 0.05)** (null hypoth
 7. **Context-based implementation** of solutions should be ensured, using **school-level diagnostics**.
 8. Implement the **Action Plan** to drive continuous improvement in compliance with both standards.
 
-[↗️ **Click here to see the full details**](https://docs.google.com/document/d/1vGVX7MndUqbm9I-LDZ5xvbzrATulnvCk/edit?usp=sharing&ouid=102337628028491470398&rtpof=true&sd=true)
+[↗️ **Click here to see the full details**](https://docs.google.com/document/d/1anL-P_TfS1VaflEWWZqAsl_z8MfuD1Jt/edit?usp=sharing&rtpof=true&sd=true)

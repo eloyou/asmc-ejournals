@@ -6,13 +6,13 @@ theme: ["PaperMod"]
 params:
   profileMode:
     enabled: true
-    title: "<Title>"
+    title: "e-Journal"
     subtitle: "A collection of thesis and research papers 📝 for learning and inspiration 🌟."
 
-    imageUrl: "/img/asmc-ejournal.png" # optional
+    imageUrl: "/img/asmc-logo.png" # optional
     imageTitle: "ASMC official logo" # optional
-    imageWidth: 350 # custom size
-    imageHeight: 350 # custom size
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
     buttons:
       - name: Researches ↗️
         url: "/archives/"
@@ -21,7 +21,7 @@ params:
 
   socialIcons: # optional
     - name: "facebook"
-      url: "https://www.facebook.com/asmcbed1985"
+      url: "https://www.facebook.com/profile.php?id=61578891984144&mibextid=ZbWKwL"
     - name: "email"
       url: "mailto:asmcbasiceducation@gmail.com"
     - name: "telegram"
@@ -29,25 +29,30 @@ params:
 
   mainSections: ["research"]
   ShowReadingTime: true
+  ShowBreadCrumbs: true
 
 menu:
   main:
+    - identifier: about
+      name: 🏫 about us
+      url: about
+      weight: 10
     - identifier: researches
       name: 🔬 researches
       url: /archives/
-      weight: 10
+      weight: 20
     - identifier: categories
       name: 📚 categories
       url: categories
-      weight: 20
+      weight: 30
     - identifier: authors
       name: 🧑‍💻 authors
       url: authors
-      weight: 30
+      weight: 40
     - identifier: search
       name: 🔎 search
       url: search
-      weight: 40
+      weight: 50
 
 taxonomies:
   category: categories

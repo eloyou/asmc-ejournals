@@ -15,6 +15,12 @@ ShowToc: true
 summary: "This dissertation assessed the compliance level of private junior high schools in Camarines Sur with the MATATAG Curriculum and ESC Certification standards, identified challenges, and proposed solutions with an action plan."
 ---
 
+## Authors
+
+**Rolan Azur San Jose** (Author)  
+_Master of Arts in Education, Major in Teaching Science_  
+📧 Email Address: rolan.sanjose010396@gmail.com
+
 ## INTRODUCTION
 
 This study assessed the **compliance with MATATAG Curriculum Standards** and the **Educational Service Contracting (ESC) Certification Assessment** of the Private Junior High Schools in the Division of Camarines Sur. Specifically, it examined the **level and extent of compliance**, tested the **significance of agreement in rank orders**, identified the **challenges encountered**, explored **proposed solutions**, and developed an **action plan** based on the findings.

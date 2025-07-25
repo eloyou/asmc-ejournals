@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://asmc-ejournals.netlify.app/
 languageCode: en-us
 title: ASMC e-Journals
 theme: ["PaperMod"]

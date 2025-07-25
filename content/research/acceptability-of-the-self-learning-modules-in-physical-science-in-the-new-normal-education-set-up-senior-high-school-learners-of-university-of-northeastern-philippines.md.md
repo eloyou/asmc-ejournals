@@ -1,6 +1,7 @@
 ---
 title: "Acceptability of the Self Learning Modules in Physical Science in the New Normal Education Set-up Senior High School Learners of University of Northeastern Philippines"
 authors: ["Rolan Azur San Jose", "Maria P. Dela Vega"]
+description: "A study investigating the acceptability of self-learning modules in Physical Science among Senior High School learners in the University of Northeastern Philippines during the new normal education setup."
 date: 2025-07-25
 draft: false
 categories:

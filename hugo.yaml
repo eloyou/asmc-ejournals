@@ -52,6 +52,7 @@ menu:
 taxonomies:
   category: categories
   author: authors
+  social: socials
 
 outputs:
   home:

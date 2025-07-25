@@ -14,7 +14,7 @@ params:
     imageWidth: 350 # custom size
     imageHeight: 350 # custom size
     buttons:
-      - name: Archives
+      - name: Researches
         url: "/archives/"
       - name: Authors
         url: "/authors/"
@@ -27,14 +27,14 @@ params:
     - name: "telegram"
       url: "tel:+639933306138"
 
-  mainSections: ["posts"]
+  mainSections: ["research"]
   ShowReadingTime: true
 
 menu:
   main:
-    - identifier: archives
-      name: archives
-      url: archives
+    - identifier: researches
+      name: researches
+      url: /archives/
       weight: 10
     - identifier: categories
       name: categories

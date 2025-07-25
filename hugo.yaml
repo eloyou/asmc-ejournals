@@ -1,0 +1,60 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: ASMC e-Journals
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "<Title>"
+    subtitle: "A collection of thesis and research papers 📝 for learning and inspiration 🌟."
+
+    imageUrl: "/img/asmc-ejournal.png" # optional
+    imageTitle: "ASMC official logo" # optional
+    imageWidth: 350 # custom size
+    imageHeight: 350 # custom size
+    buttons:
+      - name: Archives
+        url: "/archives/"
+      - name: Authors
+        url: "/authors/"
+
+  socialIcons: # optional
+    - name: "facebook"
+      url: "https://www.facebook.com/asmcbed1985"
+    - name: "email"
+      url: "mailto:asmcbasiceducation@gmail.com"
+    - name: "telegram"
+      url: "tel:+639933306138"
+
+  mainSections: ["posts"]
+  ShowReadingTime: true
+
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: archives
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: categories
+      weight: 20
+    - identifier: authors
+      name: authors
+      url: authors
+      weight: 30
+    - identifier: search
+      name: search
+      url: search
+      weight: 40
+
+taxonomies:
+  category: categories
+  author: authors
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search

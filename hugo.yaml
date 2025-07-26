@@ -1,12 +1,12 @@
 baseURL: https://asmc-ejournals.netlify.app/
 languageCode: en-us
-title: ASMC 🧑‍🏫 e-Journals
+title: ASMC Center for Educational Research and Innovation (E-Journal)
 theme: ["PaperMod"]
 
 params:
   profileMode:
     enabled: true
-    title: "e-Journal"
+    title: "ASMC Center for Educational Research and Innovation (E-Journal)"
     subtitle: "A collection of thesis and research papers 📝 for learning and inspiration 🌟."
 
     imageUrl: "/img/asmc-logo.png" # optional
@@ -30,6 +30,8 @@ params:
   mainSections: ["research"]
   ShowReadingTime: true
   ShowBreadCrumbs: true
+  disableThemeToggle: true
+  defaultTheme: light
 
 menu:
   main:

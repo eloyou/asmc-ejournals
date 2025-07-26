@@ -42,7 +42,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            {{- $label_text := (site.Params.label.text | default site.Title) }}
+            <!-- {{- $label_text := (site.Params.label.text | default site.Title) }}
             {{- if site.Title }}
             <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
                 {{- if site.Params.label.icon }}
@@ -71,8 +71,8 @@
                 {{- end -}}
                 {{- $label_text -}}
             </a>
-            {{- end }}
-            <div class="logo-switches">
+            {{- end }} -->
+            <img width="200" height="80" src="https://res.cloudinary.com/dqwpcd7jo/image/upload/v1753505703/e-Journals_1_b9b1gg.png">
                 {{- if (not site.Params.disableThemeToggle) }}
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"

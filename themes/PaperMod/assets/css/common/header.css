@@ -20,7 +20,6 @@
 
 .logo {
   flex-wrap: inherit;
-  padding: 10px;
 }
 
 .logo a {
@@ -36,6 +35,7 @@
   transform: translate(0, -10%);
   border-radius: 6px;
   margin-inline-end: 8px;
+  margin-top: 10px;
 }
 
 button#theme-toggle {

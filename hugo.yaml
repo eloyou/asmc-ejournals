@@ -7,7 +7,7 @@ params:
   profileMode:
     enabled: true
     title: "ASMC Center for Educational Research and Innovation (E-Journal)"
-    subtitle: "A collection of thesis and research papers 📝 for learning and inspiration 🌟."
+    subtitle: "A collection of thesis and research papers for learning and inspiration."
 
     imageUrl: "/img/asmc-logo.png" # optional
     imageTitle: "ASMC official logo" # optional

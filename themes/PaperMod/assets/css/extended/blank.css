@@ -3,7 +3,7 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
-
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
 .header {
   background-color: white;
 }
@@ -28,6 +28,14 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     url("https://res.cloudinary.com/dqwpcd7jo/image/upload/v1753503113/Black_and_Yellow_Illustrative_Class_Suspension_Classroom_Announcement_zm1rms.webp");
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.profile_inner h1 {
+  font-family: "Righteous", sans-serif;
+  color: aliceblue;
+  text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black,
+    1px 1px 0 black;
+  letter-spacing: 1.5px;
 }
 
 @media screen and (max-width: 900px) {

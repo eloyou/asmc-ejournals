@@ -72,7 +72,7 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
   padding: 20px;
 }
 .archive-entry:hover {
-  background-color: rgb(215, 246, 216);
+  background: rgb(218, 237, 218);
   border-radius: 10px;
 }
 
@@ -88,4 +88,8 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 
 .nav {
   justify-content: center;
+}
+
+.terms-tags a:hover {
+  background: rgb(71, 149, 71);
 }

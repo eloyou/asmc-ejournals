@@ -4,6 +4,24 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
 @import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+#menu {
+  text-transform: capitalize;
+}
+
+#menu li span {
+  height: 2rem;
+  padding: 5px;
+  border-radius: 8px;
+}
+
+#menu span:hover {
+  background-color: rgb(226, 246, 193);
+}
+
+.active {
+  background-color: rgb(214, 214, 214);
+}
 .header {
   background-color: white;
 }
@@ -38,8 +56,36 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
   letter-spacing: 1.5px;
 }
 
-@media screen and (max-width: 900px) {
-  .nav {
-    justify-content: center;
-  }
+.profile_inner > span {
+  font-weight: bold;
+  text-decoration: underline;
+  background-color: rgba(15, 195, 15, 0.425);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.button {
+  border-bottom: 2px solid black;
+}
+
+.archive-entry {
+  padding: 20px;
+}
+.archive-entry:hover {
+  background-color: rgb(215, 246, 216);
+  border-radius: 10px;
+}
+
+.logo {
+  margin-top: 8px;
+  display: none;
+}
+
+.header {
+  background-color: rgb(71, 149, 71);
+  border-bottom: 6px solid rgb(51, 52, 51);
+}
+
+.nav {
+  justify-content: center;
 }

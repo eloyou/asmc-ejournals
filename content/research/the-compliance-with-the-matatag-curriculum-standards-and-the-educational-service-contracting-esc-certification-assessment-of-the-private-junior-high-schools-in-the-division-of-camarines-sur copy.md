@@ -10,7 +10,7 @@ categories:
     "Educational Service Contracting (ESC)",
     "Certification Assessment",
   ]
-draft: false
+draft: true
 ShowToc: true
 summary: "This dissertation assessed the compliance level of private junior high schools in Camarines Sur with the MATATAG Curriculum and ESC Certification standards, identified challenges, and proposed solutions with an action plan."
 ---

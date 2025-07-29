@@ -35,24 +35,28 @@ params:
 
 menu:
   main:
-    - identifier: about
-      name: 🏫 about us
-      url: about
+    - identifier: home
+      name: home
+      url: "/"
       weight: 10
-    - identifier: researches
-      name: 🔬 researches
-      url: /archives/
+    - identifier: about
+      name: about us
+      url: about
       weight: 20
-    - identifier: categories
-      name: 📚 categories
-      url: categories
+    - identifier: researches
+      name: researches
+      url: /archives/
       weight: 30
-    - identifier: authors
-      name: 🧑‍💻 authors
-      url: authors
+    - identifier: categories
+      name: categories
+      url: categories
       weight: 40
+    - identifier: authors
+      name: authors
+      url: authors
+      weight: 50
     - identifier: search
-      name: 🔎 search
+      name: search
       url: search
       weight: 50
 

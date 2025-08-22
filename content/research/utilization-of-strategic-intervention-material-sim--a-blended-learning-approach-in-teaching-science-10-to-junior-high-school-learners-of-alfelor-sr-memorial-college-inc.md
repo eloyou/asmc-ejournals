@@ -1,6 +1,6 @@
 ---
 title: "Utilization of Strategic Intervention Material (SIM) : A Blended Learning Approach in Teaching Science 10 to Junior High School Learners of Alfelor Sr. Memorial College, INC."
-authors: ["Claire Anne Hernandez Ceros", "Maria P. Dela Vega", "Althea Cabanatan Rustia"]
+authors: ["Claire Anne Hernandez Ceros", "Mariel Niala Geronda", "Althea Cabanatan Rustia"]
 description: "An academic paper investigating the effectiveness of Strategic Intervention Materials (SIMs) as a blended learning approach for teaching Science 10, assessing academic performance and perceived effectiveness among students and teachers at Alfelor Sr. Memorial College, Inc."
 date: 2025-08-22
 draft: false

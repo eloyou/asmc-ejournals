@@ -15,19 +15,19 @@ summary: "This study investigated the utilization of Strategic Intervention Mate
 
 **Claire Anne Hernandez Ceros**
 
-_Bachelor of Secondary Education, Major in Science_
+Bachelor of Secondary Education, Major in Science
 
-  Address: claireanneceros4@gnail.com
+Address: claireanneceros4@gmail.com
 
 **Mariel Niala Geronda**
 
-_Bachelor of Secondary Education, Major in Science_
+Bachelor of Secondary Education, Major in Science
 
- Address: marielgeronda021@gmail.com 
+Address: marielgeronda021@gmail.com 
 
 **Althea Cabanatan Rustia**
 
-_Bachelor of Secondary Education, Major in Science_
+Bachelor of Secondary Education, Major in Science
 
 Address: althearustia23@gmail.com 
 

@@ -337,5 +337,4 @@ The researcher’s Alma Mater, for providing the education, training, and prepar
 
 Above all, the researchers give the highest gratitude to Almighty God, whose guidance, blessings, and strength enabled them to persevere and complete this endeavor successfully.
 
-[↗️ **Click here to see the full details**](https://lp0q-my.sharepoint.com/:w:/r/personal/eloyou_lp0q_onmicrosoft_com/_layouts/15/Doc.aspx?sourcedoc=%7B6C7F9844-4860-45AA-9B18-CE70C5C14B3D%7D&file=CERI-E-Journal2025.docx&action=default&mobileredirect=true)
-
+[↗️ **Click here to see the full details**]()

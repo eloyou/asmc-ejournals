@@ -5,7 +5,7 @@ description: "An academic paper investigating the effectiveness of Strategic Int
 date: 2025-08-22
 draft: false
 ShowToc: true
-categories: ["Strategic Intervention Material (SIM)", "Blended Learning", "Teaching Approach", "Science 10", "Junior High School", "Alfelor Sr. Memorial College, Inc."]
+categories: ["Strategic Intervention Material (SIM)", "Blended Learning", "Teaching Approach", "Science 10", "Junior High School", "Alfelor Sr. Memorial College Inc"]
 summary: "This study investigated the utilization of Strategic Intervention Materials (SIMs) as a blended learning approach in teaching Science 10 to Junior High School learners at Alfelor Sr. Memorial College, Inc. Specifically, it aimed to assess the academic performance of students in both control and experimental groups before and after the implementation of SIMs.
 "
 ---

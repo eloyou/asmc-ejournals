@@ -5,7 +5,7 @@ description: "An academic paper investigating the effectiveness of differentiate
 date: 2025-08-22
 draft: false
 ShowToc: true
-categories: ["Differentiated Instruction", "Elementary Education", "Learning Engagement", "Academic Performance", "Learning Outcomes", "Learning Motivation", "Alfelor Sr. Memorial College, Inc."]
+categories: ["Differentiated Instruction", "Elementary Education", "Learning Engagement", "Academic Performance", "Learning Outcomes", "Learning Motivation", "Alfelor Sr. Memorial College Inc"]
 summary: "This study investigated the utilization of differentiated instruction activities among elementary learners at Alfelor Sr. Memorial College Inc. It aimed to assess the effectiveness of these activities in terms of learning engagement, academic performance, learning outcomes, and learning motivation, as well as identify difficulties encountered by learners. The study employed a descriptive-evaluative-inferential research method with a sample of 32 respondents from Grades 4 to 6."
 ---
 ## Authors

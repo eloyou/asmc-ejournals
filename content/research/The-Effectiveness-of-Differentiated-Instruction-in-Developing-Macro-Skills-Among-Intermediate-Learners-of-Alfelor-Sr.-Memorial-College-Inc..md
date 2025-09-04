@@ -197,3 +197,5 @@ The following recommendations were formulated:
 2. Roosevelt F.D. (2008). "Zone of Proximal Development." Encyclopedia of Educational Psychology SAGE publication.
 3. Tomlinson, C. A. (2017, August) Book of “Fundamental of Gifted Education (pp. 279-292)
 4. Vygotsky, L. S. (1978). Mind in Society: The Development of Higher Psychological Processes. Cambridge, MA: Harvard University Press.
+
+[↗️ **Click here to see the full details**](https://drive.google.com/file/d/1AxI2tqaQ2jBoweFlGTRIAJSX4Zbd7hqm/view?usp=sharing)

@@ -1,5 +1,5 @@
 ---
-title: "International Research and Innovation 2024 (IRIS) - Assessing Compliance of Private Junior High Schools with MATATAG Curriculum and ESC Certification Standards"
+title: "The Compliance with the MATATAG Curriculum Standards and with the Educational Service Contracting (ESC) Certification Assessment of the Private Junior High Schools in the Division of Camarines Sur"
 authors: ["Rolan Azur San Jose", "Elena C. Praxides"]
 description: "A study assessing the compliance of private junior high schools with the MATATAG Curriculum standards and Educational System Contracting (ESC) Certification Assessment Standards in Camarines Sur, Philippines."
 date: 2025-09-08
